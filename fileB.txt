@@ -1,1 +1,2 @@
 this is fileB.txt - create by compbu20232
+Write "Donald" to B.txt - edit by compbu20231
